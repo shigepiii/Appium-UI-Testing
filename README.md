@@ -65,9 +65,9 @@ Run the test script with the following command（次のコマンドでテスト�
 
 ```python appium_test.py```
 
-For example of how to use this repository,please refer to [appium_test.py]
+For example of how to use this repository,please refer to [example_appium_ui_test.py
 
-(このリポジトリの使用例については、[Appium _test.py]をご覧ください。）
+(このリポジトリの使用例については、[example_appium_ui_test.py]をご覧ください。）
 
 ---
 
